@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ihar Usmanau
+- 👀 I’m interested in web developing, javascript ,front-end, React.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate with IT company
+- 📫 How to reach me: [github](https://github.com/iusmanof) [cv](https://iusmanof.github.io/cv-react/)
