@@ -6,7 +6,7 @@
 - Golang Project:
   1. [simple-crud](https://github.com/iusmanof/2025_golang_crud)
   2. [crud-docker](https://github.com/iusmanof/2025_REST_API)
-  3. 
+  3. [crud-mysql](https://github.com/iusmanof/crud_mysql)
 - React project: :point_right:[cv](https://iusmanof.github.io/cv-react/):point_left:
 - Angular project: :point_right:[todo-app](https://github.com/iusmanof/2024_angular_todo_app):point_left:
 
